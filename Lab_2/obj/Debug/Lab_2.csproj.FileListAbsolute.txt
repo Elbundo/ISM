@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.singup_form.resources
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.auth_form.resources
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.main_page.resources
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.ChangePass.resources
+C:\Users\Администратор\Desktop\programing\Education\Programming\ISB\Lab_2\obj\Debug\Lab_2.info_page.resources
