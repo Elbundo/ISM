@@ -34,7 +34,7 @@ namespace Lab_2
         {
             if (login_tb.Text == "" || pass_tb.Text == "")
             {
-                MessageBox.Show("Введите логин иил пароль!");
+                MessageBox.Show("Введите логин или пароль!");
             }
             else
             {

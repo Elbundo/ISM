@@ -232,6 +232,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "info_page";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Данные пользователя";
             this.Load += new System.EventHandler(this.Info_page_Load);
             this.ResumeLayout(false);
